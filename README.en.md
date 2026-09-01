@@ -1,3 +1,6 @@
+<p align="right">
+  <a href="README.md">Português</a> | 🇺🇸 <b>English</b>
+</p>
 # Definitive Guide for Professional Project Documentation and Organization
 
 > A well-crafted documentation is what separates amateur code from a professional-grade project. This repository works as an agnostics Docs Toolkit — meaning independent of programming language, framework, or technology — designed to help developers structure their projects from scratch with clarity, market standards, and a focus on collaboration.
