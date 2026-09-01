@@ -1,3 +1,6 @@
+<p align="right">
+  🇧🇷 <b>Português</b> | <a href="README.en.md">English</a>
+</p>
 # Guia Definitivo para Documentação e Organização de Projetos Profissionais
 
 > Uma documentação bem-feita é o que separa um código amador de um projeto de nível profissional. Este repositório funciona como um **Kit de Ferramentas (Docs Toolkit)** agnóstico — ou seja, independente de linguagem de programação, framework ou tecnologia — projetado para ajudar desenvolvedores a estruturarem seus projetos do zero com clareza, padrão de mercado e foco em colaboração.
